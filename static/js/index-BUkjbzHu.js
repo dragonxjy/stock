@@ -1,0 +1,1 @@
+import{a as o,p as e,o as s,D as a}from"./vendor-BEPiWfAF.js";import{_}from"./index-pcIRD8H-.js";const c=o({__name:"index",props:{name:{},size:{}},setup(p){return(n,t)=>(s(),e("i",{class:a([`iconfont ${n.name}`,"icon"])},null,2))}}),i=_(c,[["__scopeId","data-v-0f3bbcd2"]]);export{i as _};

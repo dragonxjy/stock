@@ -1,0 +1,1 @@
+import{a as e,p as s,o as t,a2 as _}from"./vendor-BEPiWfAF.js";import{_ as n}from"./index-pcIRD8H-.js";const a={class:"info_box"},r=e({__name:"index",setup(c){return(o,p)=>(t(),s("div",a,[_(o.$slots,"default",{},void 0,!0)]))}}),m=n(r,[["__scopeId","data-v-8767a981"]]);export{m as _};
