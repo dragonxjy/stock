@@ -1,0 +1,1 @@
+import{ao as r}from"./vendor-Cfdt3MlJ.js";const e="MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCJzdqhsVK1azCM44B7EovbKBS5pmXjwhitgjAWaGt9b4a7nJ5A1EvIeIYKMC19kxJnGlgfvBHseNyEXZYF8FCVVFwYTD82py3kstDsk6QoLtDvdNEC3RQj0HQ/zVfWtkGYsdY+uJ4/nWOfHWqPwiwbqkElbCvqCmH7BaiW+ArjFQIDAQAB";function s(n){const t=new r;return t.setPublicKey(e),t.encrypt(n)}export{s as E};
